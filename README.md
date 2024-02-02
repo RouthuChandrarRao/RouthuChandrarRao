@@ -23,7 +23,7 @@
 
 <h3 align="left">Testing Skills:</h3>
 <p align="left">
-  - Manual Testing
+  - Web Testing
   - Mobile Testing
   - API Testing
   - Regression Testing
