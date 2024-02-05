@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Routhu ChandraRao</h1>
 
-<h3 align="center">2 years of proven experience as a QA tester. Specialized in manual testing, mobile testing, API testing, regression testing, CTS compatibility testing, functional testing, smoke/sanity testing, application testing, and acceptance testing. Proficient in bug life cycle and SDLC.</h3>
+<h3 align="center">2 years of proven experience as a QA Manual tester. Specialized in web testing, mobile testing, API testing, regression testing, CTS compatibility testing, functional testing, smoke testing, sanity testing, application testing, and acceptance testing. Proficient in bug life cycle and SDLC.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
